@@ -1,10 +1,10 @@
-# Note Taker Starter Code
+## Note Taker Starter Code
 
 The App should allow you to take Notes and save them
 
 I had a hard time figuring out the problems in the app and getting past the start button, but it taught me a lot.
 
-# USER STORY
+## USER STORY
 
 GIVEN a note-taking application
 WHEN I open the Note Taker
@@ -19,3 +19,10 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+
+
+
+## Links
+
+[Heroku](https://note-taker7121.herokuapp.com/notes)
+[GitHub](https://note-taker7121.herokuapp.com/notes)
